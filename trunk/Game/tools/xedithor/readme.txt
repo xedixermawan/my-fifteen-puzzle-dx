@@ -1,0 +1,1 @@
+example use in game using libgdx : https://xedithor.googlecode.com/svn/trunk/Xedi/Xedithor/example_usage

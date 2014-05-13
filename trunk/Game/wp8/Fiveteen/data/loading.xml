@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--xedithor's sprite file-->
+<!--last saved: 18/12/2011 17:34-->
+<sprites>
+    <image>
+        <path>N:/XediProjects/_unknown_games/game/bin/data/loadinganim.png</path>
+    </image>
+    <modules nModules="12">
+        <nRow>0 1000 2 1 49 48 </nRow>
+        <nRow>0 1001 52 1 49 48 </nRow>
+        <nRow>0 1002 102 1 49 48 </nRow>
+        <nRow>0 1003 153 0 49 48 </nRow>
+        <nRow>0 1004 202 0 49 48 </nRow>
+        <nRow>0 1005 1 52 49 48 </nRow>
+        <nRow>0 1006 51 50 49 48 </nRow>
+        <nRow>0 1007 103 51 49 48 </nRow>
+        <nRow>0 1008 158 53 49 48 </nRow>
+        <nRow>0 1009 210 51 49 48 </nRow>
+        <nRow>0 1010 4 116 49 48 </nRow>
+        <nRow>0 1011 58 116 49 48 </nRow>
+    </modules>
+    <frames nFrames="12">
+        <itemFrame ID="3000" nModFrame="1" name="frame">
+            <RowModFrm>1000 0 0 </RowModFrm>
+        </itemFrame>
+        <itemFrame ID="3001" nModFrame="1" name="frame">
+            <RowModFrm>1001 0 0 </RowModFrm>
+        </itemFrame>
+        <itemFrame ID="3002" nModFrame="1" name="frame">
+            <RowModFrm>1002 0 0 </RowModFrm>
+        </itemFrame>
+        <itemFrame ID="3003" nModFrame="1" name="frame">
+            <RowModFrm>1003 0 0 </RowModFrm>
+        </itemFrame>
+        <itemFrame ID="3004" nModFrame="1" name="frame">
+            <RowModFrm>1004 0 0 </RowModFrm>
+        </itemFrame>
+        <itemFrame ID="3005" nModFrame="1" name="frame">
+            <RowModFrm>1005 0 0 </RowModFrm>
+        </itemFrame>
+        <itemFrame ID="3006" nModFrame="1" name="frame">
+            <RowModFrm>1006 0 0 </RowModFrm>
+        </itemFrame>
+        <itemFrame ID="3007" nModFrame="1" name="frame">
+            <RowModFrm>1007 0 0 </RowModFrm>
+        </itemFrame>
+        <itemFrame ID="3008" nModFrame="1" name="frame">
+            <RowModFrm>1008 0 0 </RowModFrm>
+        </itemFrame>
+        <itemFrame ID="3009" nModFrame="1" name="frame">
+            <RowModFrm>1009 0 0 </RowModFrm>
+        </itemFrame>
+        <itemFrame ID="3010" nModFrame="1" name="frame">
+            <RowModFrm>1010 0 0 </RowModFrm>
+        </itemFrame>
+        <itemFrame ID="3011" nModFrame="1" name="frame">
+            <RowModFrm>1011 0 0 </RowModFrm>
+        </itemFrame>
+    </frames>
+    <anims nAnims="1">
+        <itemAnim ID="5000" nAnimFrame="12" name="loading1">
+            <RowFrmAnim>3000 -3 -46 1 </RowFrmAnim>
+            <RowFrmAnim>3001 -2 -46 1 </RowFrmAnim>
+            <RowFrmAnim>3002 -3 -44 1 </RowFrmAnim>
+            <RowFrmAnim>3003 -3 -45 1 </RowFrmAnim>
+            <RowFrmAnim>3004 -3 -45 1 </RowFrmAnim>
+            <RowFrmAnim>3005 -2 -47 1 </RowFrmAnim>
+            <RowFrmAnim>3006 -3 -46 1 </RowFrmAnim>
+            <RowFrmAnim>3007 -4 -46 1 </RowFrmAnim>
+            <RowFrmAnim>3008 -3 -45 1 </RowFrmAnim>
+            <RowFrmAnim>3009 -3 -47 1 </RowFrmAnim>
+            <RowFrmAnim>3010 -4 -45 1 </RowFrmAnim>
+            <RowFrmAnim>3011 -3 -45 1 </RowFrmAnim>
+        </itemAnim>
+    </anims>
+</sprites>

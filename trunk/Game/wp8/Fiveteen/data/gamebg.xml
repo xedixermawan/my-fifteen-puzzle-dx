@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--xedithor's sprite file-->
+<!--last saved: 18/12/2011 17:34-->
+<sprites>
+    <image>
+        <path>N:/XediProjects/fiveteen/game/bin/data/gamebg.png</path>
+    </image>
+    <modules nModules="16">
+        <nRow>0 1000 0 0 800 480 </nRow>
+        <nRow>0 1012 177 501 110 110 </nRow>
+        <nRow>0 1013 329 502 110 110 </nRow>
+        <nRow>0 1014 475 504 110 110 </nRow>
+        <nRow>0 1015 607 505 110 110 </nRow>
+        <nRow>0 1016 177 636 110 110 </nRow>
+        <nRow>0 1017 330 639 110 110 </nRow>
+        <nRow>0 1018 476 636 110 110 </nRow>
+        <nRow>0 1019 617 636 110 110 </nRow>
+        <nRow>0 1020 175 761 110 110 </nRow>
+        <nRow>0 1021 324 771 110 110 </nRow>
+        <nRow>0 1022 474 771 110 110 </nRow>
+        <nRow>0 1023 609 769 110 110 </nRow>
+        <nRow>0 1024 177 895 110 110 </nRow>
+        <nRow>0 1025 322 898 110 110 </nRow>
+        <nRow>0 1026 472 894 110 110 </nRow>
+    </modules>
+    <frames nFrames="16">
+        <itemFrame ID="3000" nModFrame="1" name="frame480_800">
+            <RowModFrm>1000 0 0 </RowModFrm>
+        </itemFrame>
+        <itemFrame ID="3012" nModFrame="1" name="frame">
+            <RowModFrm>1012 0 0 </RowModFrm>
+        </itemFrame>
+        <itemFrame ID="3013" nModFrame="1" name="frame">
+            <RowModFrm>1013 0 0 </RowModFrm>
+        </itemFrame>
+        <itemFrame ID="3014" nModFrame="1" name="frame">
+            <RowModFrm>1014 0 0 </RowModFrm>
+        </itemFrame>
+        <itemFrame ID="3015" nModFrame="1" name="frame">
+            <RowModFrm>1015 0 0 </RowModFrm>
+        </itemFrame>
+        <itemFrame ID="3016" nModFrame="1" name="frame">
+            <RowModFrm>1016 0 0 </RowModFrm>
+        </itemFrame>
+        <itemFrame ID="3017" nModFrame="1" name="frame">
+            <RowModFrm>1017 0 0 </RowModFrm>
+        </itemFrame>
+        <itemFrame ID="3018" nModFrame="1" name="frame">
+            <RowModFrm>1018 0 0 </RowModFrm>
+        </itemFrame>
+        <itemFrame ID="3019" nModFrame="1" name="frame">
+            <RowModFrm>1019 0 0 </RowModFrm>
+        </itemFrame>
+        <itemFrame ID="3020" nModFrame="1" name="frame">
+            <RowModFrm>1020 0 0 </RowModFrm>
+        </itemFrame>
+        <itemFrame ID="3021" nModFrame="1" name="frame">
+            <RowModFrm>1021 0 0 </RowModFrm>
+        </itemFrame>
+        <itemFrame ID="3022" nModFrame="1" name="frame">
+            <RowModFrm>1022 0 0 </RowModFrm>
+        </itemFrame>
+        <itemFrame ID="3023" nModFrame="1" name="frame">
+            <RowModFrm>1023 0 0 </RowModFrm>
+        </itemFrame>
+        <itemFrame ID="3024" nModFrame="1" name="frame">
+            <RowModFrm>1024 0 0 </RowModFrm>
+        </itemFrame>
+        <itemFrame ID="3025" nModFrame="1" name="frame">
+            <RowModFrm>1025 0 0 </RowModFrm>
+        </itemFrame>
+        <itemFrame ID="3026" nModFrame="1" name="frame">
+            <RowModFrm>1026 0 0 </RowModFrm>
+        </itemFrame>
+    </frames>
+    <anims nAnims="17">
+        <itemAnim ID="5000" nAnimFrame="1" name="anim">
+            <RowFrmAnim>3000 0 0 1 </RowFrmAnim>
+        </itemAnim>
+        <itemAnim ID="5002" nAnimFrame="1" name="anim">
+            <RowFrmAnim>3012 0 0 1 </RowFrmAnim>
+        </itemAnim>
+        <itemAnim ID="5003" nAnimFrame="1" name="anim">
+            <RowFrmAnim>3013 0 0 1 </RowFrmAnim>
+        </itemAnim>
+        <itemAnim ID="5004" nAnimFrame="1" name="anim">
+            <RowFrmAnim>3014 0 0 1 </RowFrmAnim>
+        </itemAnim>
+        <itemAnim ID="5005" nAnimFrame="1" name="anim">
+            <RowFrmAnim>3015 0 0 1 </RowFrmAnim>
+        </itemAnim>
+        <itemAnim ID="5006" nAnimFrame="1" name="anim">
+            <RowFrmAnim>3016 0 0 1 </RowFrmAnim>
+        </itemAnim>
+        <itemAnim ID="5007" nAnimFrame="1" name="anim">
+            <RowFrmAnim>3017 0 0 1 </RowFrmAnim>
+        </itemAnim>
+        <itemAnim ID="5008" nAnimFrame="1" name="anim">
+            <RowFrmAnim>3018 0 0 1 </RowFrmAnim>
+        </itemAnim>
+        <itemAnim ID="5009" nAnimFrame="1" name="anim">
+            <RowFrmAnim>3019 0 0 1 </RowFrmAnim>
+        </itemAnim>
+        <itemAnim ID="5010" nAnimFrame="1" name="anim">
+            <RowFrmAnim>3020 0 0 1 </RowFrmAnim>
+        </itemAnim>
+        <itemAnim ID="5011" nAnimFrame="1" name="anim">
+            <RowFrmAnim>3021 0 0 1 </RowFrmAnim>
+        </itemAnim>
+        <itemAnim ID="5012" nAnimFrame="1" name="anim">
+            <RowFrmAnim>3022 0 0 1 </RowFrmAnim>
+        </itemAnim>
+        <itemAnim ID="5013" nAnimFrame="1" name="anim">
+            <RowFrmAnim>3023 0 0 1 </RowFrmAnim>
+        </itemAnim>
+        <itemAnim ID="5014" nAnimFrame="1" name="anim">
+            <RowFrmAnim>3024 0 0 1 </RowFrmAnim>
+        </itemAnim>
+        <itemAnim ID="5015" nAnimFrame="1" name="anim">
+            <RowFrmAnim>3025 0 0 1 </RowFrmAnim>
+        </itemAnim>
+        <itemAnim ID="5016" nAnimFrame="1" name="anim">
+            <RowFrmAnim>3026 0 0 1 </RowFrmAnim>
+        </itemAnim>
+        <itemAnim ID="5017" nAnimFrame="7" name="anim">
+            <RowFrmAnim>3026 0 0 1 </RowFrmAnim>
+            <RowFrmAnim>3025 0 0 1 </RowFrmAnim>
+            <RowFrmAnim>3024 0 0 1 </RowFrmAnim>
+            <RowFrmAnim>3023 0 0 1 </RowFrmAnim>
+            <RowFrmAnim>3022 0 0 1 </RowFrmAnim>
+            <RowFrmAnim>3021 0 0 1 </RowFrmAnim>
+            <RowFrmAnim>3020 0 0 1 </RowFrmAnim>
+        </itemAnim>
+    </anims>
+</sprites>

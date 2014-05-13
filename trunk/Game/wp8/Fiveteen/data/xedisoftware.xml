@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--xedithor's sprite file-->
+<!--last saved: 18/12/2011 17:34-->
+<sprites>
+    <image>
+        <path>N:/XediProjects/fiveteen/game/bin/data/xedisoftware.png</path>
+    </image>
+    <modules nModules="1">
+        <nRow>0 1000 0 0 512 512 </nRow>
+    </modules>
+    <frames nFrames="1">
+        <itemFrame ID="3000" nModFrame="1" name="frame480_800">
+            <RowModFrm>1000 0 0 </RowModFrm>
+        </itemFrame>
+    </frames>
+    <anims nAnims="1">
+        <itemAnim ID="5000" nAnimFrame="1" name="anim">
+            <RowFrmAnim>3000 -30 144 1 </RowFrmAnim>
+        </itemAnim>
+    </anims>
+</sprites>

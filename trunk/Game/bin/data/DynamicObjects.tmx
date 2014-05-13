@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="80" height="40" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="tile32" tilewidth="32" tileheight="32">
+  <image source="tile32.png" width="1024" height="1024"/>
+  <terraintypes>
+   <terrain name="New Terrain" tile="-1"/>
+   <terrain name="New Terrain" tile="-1"/>
+  </terraintypes>
+ </tileset>
+ <tileset firstgid="1025" name="helicool" tilewidth="32" tileheight="32">
+  <image source="helicool.png" width="512" height="512"/>
+ </tileset>
+ <layer name="TileLayer1" width="80" height="40" visible="0">
+  <data encoding="base64" compression="zlib">
+   eJztmj9u1EAUhx2vEJACGsgN+FsAEoED0GShSCgAwQEguyHaUABnACQCRXIBKkAipEgkaGm3TaTkBBCQqECCjp8lDzt5GnvmvXmOvcn+pE+zm3j87C/2eOy4N5YkvQOKCf35RBrW/xD6Xk4TZ/o5oZlXYJXBsVYYklwtcEKj6Y8blzuNvwFFkjuR/vpJuL+z6H8OnA+sOQx5qnD8haaN/tfBjcj1cM5f6XFVVptyPKCfhr8O+nfB3B76M8Qmdv0a/p6h/3PwQuH83Qt/mmOnhr+36P8OvFca/14SYq8LVV57uP5OYT5wusVvJaEebTi5lsrxReP4k+YC6l4Elzz1Y/1VmTr9TaPuDLgZWH/kb3d6qLsAHjHra89dyjLh2ba6/H0gNDW++ziuv9Axyxfqr6kOffdxXH/cMasoLn91OPwEPpe0vvs4rj/pmEVTt78VBmUx/uxnBTupDE40XS2h9jKzfpX+fubMWnQtOhahdWg0/a1h+9drmkNoHn9TjLqa/jZQe7NB/mZxv9VpDdoumLPah2Deau+DB1YbEk1/v7D9v2v2V5ay8U06Bmb+fuRMpgMkkZ6/J8BJWcn/qdOf1vVXev5OgivCmiZNuf+I8Rd6/mbPk7Nj3DxXvgVuC2ua1Hn/q5Uif4uBxGQ/+Csa/0b+wtKE+cswp+nzF+1M5bRzzuQcAYfzlpOD5q8fACfD5k/rGWBozDytaL5m/Gm9B8HZP4k/rWeAoTHztKL5mvGn9R4EZ/8k/jjPAKdxPzwj/P+lyWPwxGppzPxF6z0Izv5J/C1i+VfgdUC/HtwteBz6HC+BZaulMfOXovcgtvB9m7GPnP1z+TuaDK6D2edx8n0Fy38Eq2nxMuPW+ozDLG0H9u9dWQPrVkvrmPO36D2IP/j+l/zsLrjn+JyQ/aPL0zbz92VsN2+UcEXSj1OzbD+k6yzD5U8LVyT9qtgerXWO/DXXn3Sbv2LZb2AHfK94+5rub78z8hfv7x9Bn6Mj
+  </data>
+ </layer>
+ <objectgroup name="DynamicObjects" width="80" height="40">
+  <object name="HeliRightPoints" x="367" y="125">
+   <polygon points="0,0 -11,3 -23,3 -46,-10 -40,-9 -37,-14 -42,-16 -40,-22 -46,-32 -43,-34 -44,-38 -59,-45 -67,-41 -66,-44 -63,-50 -61,-68 -57,-63 -56,-51 -32,-40 -32,-42 -45,-50 -23,-47 -14,-49 -9,-44 14,-34 -9,-35 -4,-25 -1,-13 -2,-6 -5,-3 -11,-2"/>
+  </object>
+  <object name="HeliMidPoints" x="484" y="113">
+   <polygon points="0,0 11,4 17,2 18,-2 22,-7 22,-15 18,-18 15,-18 14,-31 23,-34 19,-44 3,-50 3,-66 -1,-66 -1,-52 -22,-47 -12,-34 -14,-19 -21,-15 -21,-6 -17,-2 -14,4 -8,1 -9,-1 0,-1"/>
+  </object>
+  <object name="HeliLeftPoints" x="166" y="82">
+   <polygon points="0,0 0,-14 -5,-11 -6,2 -28,12 -20,4 -42,5 -48,4 -53,9 -77,20 -53,17 -55,23 -60,35 -58,48 -53,51 -56,54 -62,53 -55,57 -44,56 -27,50 -16,45 -21,43 -23,41 -22,33 -15,20 -18,19 -4,8 3,12"/>
+  </object>
+  <object x="377" y="185">
+   <polygon points="0,0 -109,57 -4,133 40,65 -4,41"/>
+  </object>
+  <object x="69" y="256" width="80" height="81">
+   <ellipse/>
+  </object>
+  <object x="35" y="16" width="73" height="49"/>
+  <object x="4" y="37" width="13" height="39"/>
+  <object x="13" y="57"/>
+  <object name="test" x="1" y="147" width="20" height="20"/>
+  <object name="p1" x="225" y="86">
+   <polygon points="0,0 58,27 23,69 -38,77"/>
+  </object>
+ </objectgroup>
+ <layer name="Tile Layer 2" width="80" height="40" visible="0">
+  <data encoding="base64" compression="zlib">
+   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
+  </data>
+ </layer>
+ <objectgroup name="Object Layer 2" width="80" height="40" visible="0">
+  <object x="32" y="65" width="31" height="30"/>
+  <object x="32" y="63">
+   <polygon points="0,0 0,-30 -28,-30 -31,-24 -31,-16 -26,-12 -26,0"/>
+  </object>
+  <object x="33" y="34">
+   <polygon points="0,0 31,0 30,31 -2,30"/>
+  </object>
+ </objectgroup>
+</map>
