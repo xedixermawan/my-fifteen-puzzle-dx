@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="80" height="40" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="tile32" tilewidth="32" tileheight="32">
+  <image source="tile32.png" width="1024" height="1024"/>
+  <terraintypes>
+   <terrain name="New Terrain" tile="-1"/>
+   <terrain name="New Terrain" tile="-1"/>
+  </terraintypes>
+ </tileset>
+ <tileset firstgid="1025" name="helicool" tilewidth="32" tileheight="32">
+  <image source="helicool.png" width="512" height="512"/>
+ </tileset>
+ <layer name="TileLayer1" width="80" height="40">
+  <data encoding="base64" compression="zlib">
+   eJztmj9u1EAUhx2vEJACGsgN+C8RJAIHoMlCkVAAggNAdkO0oQDOAEgEiuQCqQCJkCKRoKXdFiQ4AQQkKpCgy8+Sh508zXjmPT/H3mR/0qfZTTx+9hd7PHbcG0uS3j7FhP58Io3rfwB9L6aJM/2c2CwosM7gSCsOSS57nNBo+uPG5U7jb0CR5FZJf/0k3t9p9D8DzkbWHIY8Vjj+YtNG/6vgWsn1cM5f6XFVVJtyNKKfhr8O+nfB/C76M5RN2fVr+HuC/k/BM4Xzdzf8aY6dGv5eof9r8EZp/HtOKHtdqPLaw/V3AvOBky1+Kwn1aMPJlVROKBrHnzTnUXcSXAjUL+uvytTpbwZ1Z8H1yPojfzvTQ91F8IBZX3vuUpSJwLbV5e8toakJ3cdx/cWOWaFQf011GLqP4/rjjlm+uPzV4fA9+FDQhu7juP6kYxZN3f7WGBTF+LOfFWylMjjRdLWM2ivM+lX6+5UzZ9G16FjE1qHR9LeB7d+saQ6hefxNM+pq+vuE2p8b5G8O91ud1qDtgnmrvQ8WrPYuuGe1MdH09xvb/6dmf0UpGt+kY2Dm72fOVDpAEun5ewwcl5X8nzr9aV1/pefvFLgkrGnSlPuPMv5iz9/seXJ2jJvnyjfATWFNkzrvf7Xi87cUSZnsBX++8W/kLy5NmL8Mc5o+f9HOdE4751TOIXAwbznZb/76Edg5R6AZNn9azwBjY+Zpvvma8af1HgRn/yT+tJ4BxsbM03zzNeNP6z0Izv5J/HGeAc7gfnhW+P9Lk4fgkdXSmPmL1nsQnP2T+FvC8i/Ay4h+PbhbDDgMOV4GK1ZLY+YvvvcgvuD7V8Y+cvbP5e9wMrgOZp/Hyfc1LP8OrKf+Zcat9RmHWdoO7N+7sgE2rZbWMeev7z2Iv/j+j/zsNrjj+JyQ/aPL0zbz93FsJ6tKuCLpx6lZtB/SdRbh8qeFK5J+VWyP1jpH/prrT7rN37Dsd7AFflS8fU33t9cZ+SvvbxvmnqPP
+  </data>
+ </layer>
+ <objectgroup color="#ff0000" name="StaticObjects" width="80" height="40">
+  <object x="142" y="1000">
+   <polygon points="0,0 106,152 186,58 269,-31 60,-84"/>
+  </object>
+ </objectgroup>
+</map>

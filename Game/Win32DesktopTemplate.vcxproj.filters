@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="GameData">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Sources">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Sources\utility">
+      <UniqueIdentifier>{6a484265-c4ed-4930-ad76-3bca2bd67e46}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Sources\gui">
+      <UniqueIdentifier>{fa120027-7ba4-4937-9a6c-6f54e695afe0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Sources\player">
+      <UniqueIdentifier>{ff6e17d0-1b50-438c-a966-7632fce64df6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Sources\template">
+      <UniqueIdentifier>{0dd4b733-5ae9-463f-affe-8347a3f889f3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Sources\state">
+      <UniqueIdentifier>{37e1d5c6-ad46-440e-ad7a-6383b7314dd0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Sources\sprite2d">
+      <UniqueIdentifier>{fc578471-6a95-4e25-9f86-76d77f832d98}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="src\XDSpriteLoader.cpp">
+      <Filter>Sources\sprite2d</Filter>
+    </ClCompile>
+    <ClCompile Include="src\XDAnimObject.cpp">
+      <Filter>Sources\sprite2d</Filter>
+    </ClCompile>
+    <ClCompile Include="src\XDSprite.cpp">
+      <Filter>Sources\sprite2d</Filter>
+    </ClCompile>
+    <ClCompile Include="src\XDGUIManager.cpp">
+      <Filter>Sources\gui</Filter>
+    </ClCompile>
+    <ClCompile Include="src\XDButton.cpp">
+      <Filter>Sources\gui</Filter>
+    </ClCompile>
+    <ClCompile Include="src\XDGameRenderer.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="src\XDGame.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="src\XDMainApp.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="src\XDFuncUtils.cpp">
+      <Filter>Sources\utility</Filter>
+    </ClCompile>
+    <ClCompile Include="src\XDFileSystem.cpp">
+      <Filter>Sources\utility</Filter>
+    </ClCompile>
+    <ClCompile Include="src\XDFiveTeenBox.cpp">
+      <Filter>Sources\player</Filter>
+    </ClCompile>
+    <ClCompile Include="src\XDStateMenu.cpp">
+      <Filter>Sources\state</Filter>
+    </ClCompile>
+    <ClCompile Include="src\XDStateLoading.cpp">
+      <Filter>Sources\state</Filter>
+    </ClCompile>
+    <ClCompile Include="src\XDCreateState.cpp">
+      <Filter>Sources\state</Filter>
+    </ClCompile>
+    <ClCompile Include="src\pch.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="src\XDSpriteLoader.h">
+      <Filter>Sources\sprite2d</Filter>
+    </ClInclude>
+    <ClInclude Include="src\XDAnimObject.h">
+      <Filter>Sources\sprite2d</Filter>
+    </ClInclude>
+    <ClInclude Include="src\XDSprite.h">
+      <Filter>Sources\sprite2d</Filter>
+    </ClInclude>
+    <ClInclude Include="src\XDSpriteConstant.h">
+      <Filter>Sources\sprite2d</Filter>
+    </ClInclude>
+    <ClInclude Include="src\XDGUIManager.h">
+      <Filter>Sources\gui</Filter>
+    </ClInclude>
+    <ClInclude Include="src\XDElementBase.h">
+      <Filter>Sources\gui</Filter>
+    </ClInclude>
+    <ClInclude Include="src\XDButton.h">
+      <Filter>Sources\gui</Filter>
+    </ClInclude>
+    <ClInclude Include="src\XDGameRenderer.h">
+      <Filter>Sources</Filter>
+    </ClInclude>
+    <ClInclude Include="src\XDGame.h">
+      <Filter>Sources</Filter>
+    </ClInclude>
+    <ClInclude Include="src\XDProperties.hpp">
+      <Filter>Sources</Filter>
+    </ClInclude>
+    <ClInclude Include="src\XDGlobalConst.h">
+      <Filter>Sources</Filter>
+    </ClInclude>
+    <ClInclude Include="src\XDFuncUtils.h">
+      <Filter>Sources\utility</Filter>
+    </ClInclude>
+    <ClInclude Include="src\XDFileSystem.h">
+      <Filter>Sources\utility</Filter>
+    </ClInclude>
+    <ClInclude Include="src\XDBaseSingleton.h">
+      <Filter>Sources\template</Filter>
+    </ClInclude>
+    <ClInclude Include="src\XDFiveTeenBox.h">
+      <Filter>Sources\player</Filter>
+    </ClInclude>
+    <ClInclude Include="src\XDStateMenu.h">
+      <Filter>Sources\state</Filter>
+    </ClInclude>
+    <ClInclude Include="src\XDStateLoading.h">
+      <Filter>Sources\state</Filter>
+    </ClInclude>
+    <ClInclude Include="src\XDGameState.h">
+      <Filter>Sources\state</Filter>
+    </ClInclude>
+    <ClInclude Include="src\XDCreateState.h">
+      <Filter>Sources\state</Filter>
+    </ClInclude>
+    <ClInclude Include="src\XDFrameAnimDescription.h">
+      <Filter>Sources\sprite2d</Filter>
+    </ClInclude>
+    <ClInclude Include="src\pch.h">
+      <Filter>Sources</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <FxCompile Include="bin\shader\PixelShader.hlsl">
+      <Filter>GameData</Filter>
+    </FxCompile>
+    <FxCompile Include="bin\shader\VertexShader.hlsl">
+      <Filter>GameData</Filter>
+    </FxCompile>
+  </ItemGroup>
+</Project>

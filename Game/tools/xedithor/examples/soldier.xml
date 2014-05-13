@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--xedithor's sprite file-->
+<!--last saved: 18/12/2011 17:34-->
+<sprites>
+    <image>
+        <path>H:/Projects/Qt_Creator/True/Xedithor/example_usage/example01/assets/spritesRaw/soldier.png</path>
+    </image>
+    <modules nModules="38">
+        <nRow>0 1000 4 295 41 28 </nRow>
+        <nRow>0 1002 47 295 41 28 </nRow>
+        <nRow>0 1004 91 293 35 29 </nRow>
+        <nRow>0 1006 178 294 39 29 </nRow>
+        <nRow>0 1008 227 294 39 29 </nRow>
+        <nRow>0 1010 279 290 39 32 </nRow>
+        <nRow>0 1012 330 284 39 38 </nRow>
+        <nRow>0 1014 378 278 39 44 </nRow>
+        <nRow>0 1016 378 278 39 44 </nRow>
+        <nRow>0 1018 422 284 39 38 </nRow>
+        <nRow>0 1020 469 289 39 34 </nRow>
+        <nRow>0 1022 518 288 39 34 </nRow>
+        <nRow>0 1024 567 293 39 28 </nRow>
+        <nRow>0 1026 612 293 39 28 </nRow>
+        <nRow>0 1028 657 293 39 28 </nRow>
+        <nRow>0 1030 702 286 42 37 </nRow>
+        <nRow>0 1032 751 277 44 45 </nRow>
+        <nRow>0 1034 804 275 44 47 </nRow>
+        <nRow>0 1036 854 272 48 51 </nRow>
+        <nRow>0 1038 906 270 49 52 </nRow>
+        <nRow>0 1040 960 270 49 52 </nRow>
+        <nRow>0 1042 1020 270 49 52 </nRow>
+        <nRow>0 1153 0 131 45 23 </nRow>
+        <nRow>0 1154 48 127 45 25 </nRow>
+        <nRow>0 1155 99 129 45 25 </nRow>
+        <nRow>0 1156 148 125 45 28 </nRow>
+        <nRow>0 1157 196 126 45 28 </nRow>
+        <nRow>0 1158 247 125 45 28 </nRow>
+        <nRow>0 1159 294 119 45 34 </nRow>
+        <nRow>0 1160 344 120 45 34 </nRow>
+        <nRow>0 1161 396 121 45 34 </nRow>
+        <nRow>0 1162 444 116 46 39 </nRow>
+        <nRow>0 1163 493 110 46 46 </nRow>
+        <nRow>0 1164 545 115 46 40 </nRow>
+        <nRow>0 1165 592 133 46 23 </nRow>
+        <nRow>0 1166 641 133 46 23 </nRow>
+        <nRow>0 1167 640 113 46 20 </nRow>
+        <nRow>0 1168 506 111 13 15 </nRow>
+    </modules>
+    <frames nFrames="38">
+        <itemFrame ID="3000" nModFrame="1" name="frame_">
+            <RowModFrm>1000 0 0 </RowModFrm>
+        </itemFrame>
+        <itemFrame ID="3001" nModFrame="1" name="frame_">
+            <RowModFrm>1002 0 0 </RowModFrm>
+        </itemFrame>
+        <itemFrame ID="3002" nModFrame="1" name="frame_">
+            <RowModFrm>1004 0 0 </RowModFrm>
+        </itemFrame>
+        <itemFrame ID="3003" nModFrame="1" name="frame_">
+            <RowModFrm>1006 0 0 </RowModFrm>
+        </itemFrame>
+        <itemFrame ID="3004" nModFrame="1" name="frame_">
+            <RowModFrm>1008 0 0 </RowModFrm>
+        </itemFrame>
+        <itemFrame ID="3005" nModFrame="1" name="frame_">
+            <RowModFrm>1010 0 0 </RowModFrm>
+        </itemFrame>
+        <itemFrame ID="3006" nModFrame="1" name="frame_">
+            <RowModFrm>1012 0 0 </RowModFrm>
+        </itemFrame>
+        <itemFrame ID="3007" nModFrame="1" name="frame_">
+            <RowModFrm>1014 0 0 </RowModFrm>
+        </itemFrame>
+        <itemFrame ID="3008" nModFrame="1" name="frame_">
+            <RowModFrm>1016 0 0 </RowModFrm>
+        </itemFrame>
+        <itemFrame ID="3009" nModFrame="1" name="frame_">
+            <RowModFrm>1018 0 0 </RowModFrm>
+        </itemFrame>
+        <itemFrame ID="3010" nModFrame="1" name="frame_">
+            <RowModFrm>1020 0 0 </RowModFrm>
+        </itemFrame>
+        <itemFrame ID="3011" nModFrame="1" name="frame_">
+            <RowModFrm>1022 0 0 </RowModFrm>
+        </itemFrame>
+        <itemFrame ID="3012" nModFrame="1" name="frame_">
+            <RowModFrm>1024 0 0 </RowModFrm>
+        </itemFrame>
+        <itemFrame ID="3013" nModFrame="1" name="frame_">
+            <RowModFrm>1026 0 0 </RowModFrm>
+        </itemFrame>
+        <itemFrame ID="3014" nModFrame="1" name="frame_">
+            <RowModFrm>1028 0 0 </RowModFrm>
+        </itemFrame>
+        <itemFrame ID="3015" nModFrame="1" name="frame_">
+            <RowModFrm>1030 0 0 </RowModFrm>
+        </itemFrame>
+        <itemFrame ID="3016" nModFrame="1" name="frame_">
+            <RowModFrm>1032 0 0 </RowModFrm>
+        </itemFrame>
+        <itemFrame ID="3017" nModFrame="1" name="frame_">
+            <RowModFrm>1034 0 0 </RowModFrm>
+        </itemFrame>
+        <itemFrame ID="3018" nModFrame="1" name="frame_">
+            <RowModFrm>1036 0 0 </RowModFrm>
+        </itemFrame>
+        <itemFrame ID="3019" nModFrame="1" name="frame_">
+            <RowModFrm>1038 0 0 </RowModFrm>
+        </itemFrame>
+        <itemFrame ID="3020" nModFrame="1" name="frame_">
+            <RowModFrm>1040 0 0 </RowModFrm>
+        </itemFrame>
+        <itemFrame ID="3021" nModFrame="1" name="frame_">
+            <RowModFrm>1042 0 0 </RowModFrm>
+        </itemFrame>
+        <itemFrame ID="3098" nModFrame="1" name="frame">
+            <RowModFrm>1153 0 0 </RowModFrm>
+        </itemFrame>
+        <itemFrame ID="3099" nModFrame="1" name="frame">
+            <RowModFrm>1154 0 0 </RowModFrm>
+        </itemFrame>
+        <itemFrame ID="3100" nModFrame="1" name="frame">
+            <RowModFrm>1155 0 0 </RowModFrm>
+        </itemFrame>
+        <itemFrame ID="3101" nModFrame="1" name="frame">
+            <RowModFrm>1156 0 0 </RowModFrm>
+        </itemFrame>
+        <itemFrame ID="3102" nModFrame="1" name="frame">
+            <RowModFrm>1157 0 0 </RowModFrm>
+        </itemFrame>
+        <itemFrame ID="3103" nModFrame="1" name="frame">
+            <RowModFrm>1158 0 0 </RowModFrm>
+        </itemFrame>
+        <itemFrame ID="3104" nModFrame="1" name="frame">
+            <RowModFrm>1159 0 0 </RowModFrm>
+        </itemFrame>
+        <itemFrame ID="3105" nModFrame="1" name="frame">
+            <RowModFrm>1160 0 0 </RowModFrm>
+        </itemFrame>
+        <itemFrame ID="3106" nModFrame="1" name="frame">
+            <RowModFrm>1161 0 0 </RowModFrm>
+        </itemFrame>
+        <itemFrame ID="3107" nModFrame="1" name="frame">
+            <RowModFrm>1162 0 0 </RowModFrm>
+        </itemFrame>
+        <itemFrame ID="3108" nModFrame="1" name="frame">
+            <RowModFrm>1163 0 0 </RowModFrm>
+        </itemFrame>
+        <itemFrame ID="3109" nModFrame="2" name="frame">
+            <RowModFrm>1164 0 0 </RowModFrm>
+            <RowModFrm>1168 44 -12 </RowModFrm>
+        </itemFrame>
+        <itemFrame ID="3110" nModFrame="2" name="frame">
+            <RowModFrm>1165 0 0 </RowModFrm>
+            <RowModFrm>1168 64 -13 </RowModFrm>
+        </itemFrame>
+        <itemFrame ID="3111" nModFrame="2" name="frame">
+            <RowModFrm>1166 0 0 </RowModFrm>
+            <RowModFrm>1168 94 -18 </RowModFrm>
+        </itemFrame>
+        <itemFrame ID="3112" nModFrame="2" name="frame">
+            <RowModFrm>1167 0 0 </RowModFrm>
+            <RowModFrm>1168 131 -4 </RowModFrm>
+        </itemFrame>
+        <itemFrame ID="3113" nModFrame="1" name="frame">
+            <RowModFrm>1168 0 0 </RowModFrm>
+        </itemFrame>
+    </frames>
+    <anims nAnims="2">
+        <itemAnim ID="5001" nAnimFrame="17" name="bomber">
+            <RowFrmAnim>3005 0 -32 1 </RowFrmAnim>
+            <RowFrmAnim>3006 0 -38 1 </RowFrmAnim>
+            <RowFrmAnim>3007 0 -44 1 </RowFrmAnim>
+            <RowFrmAnim>3008 0 -44 1 </RowFrmAnim>
+            <RowFrmAnim>3009 0 -38 1 </RowFrmAnim>
+            <RowFrmAnim>3010 0 -33 1 </RowFrmAnim>
+            <RowFrmAnim>3011 0 -34 1 </RowFrmAnim>
+            <RowFrmAnim>3012 0 -28 1 </RowFrmAnim>
+            <RowFrmAnim>3013 0 -28 1 </RowFrmAnim>
+            <RowFrmAnim>3014 0 -28 1 </RowFrmAnim>
+            <RowFrmAnim>3015 0 -35 1 </RowFrmAnim>
+            <RowFrmAnim>3016 -2 -44 1 </RowFrmAnim>
+            <RowFrmAnim>3017 0 -46 1 </RowFrmAnim>
+            <RowFrmAnim>3018 0 -50 1 </RowFrmAnim>
+            <RowFrmAnim>3019 0 -52 1 </RowFrmAnim>
+            <RowFrmAnim>3020 -1 -52 1 </RowFrmAnim>
+            <RowFrmAnim>3021 0 -52 1 </RowFrmAnim>
+        </itemAnim>
+        <itemAnim ID="5020" nAnimFrame="16" name="trowGranat">
+            <RowFrmAnim>3098 0 -21 1 </RowFrmAnim>
+            <RowFrmAnim>3099 -1 -24 1 </RowFrmAnim>
+            <RowFrmAnim>3100 0 -23 1 </RowFrmAnim>
+            <RowFrmAnim>3101 -1 -26 1 </RowFrmAnim>
+            <RowFrmAnim>3102 -2 -26 1 </RowFrmAnim>
+            <RowFrmAnim>3103 -1 -28 1 </RowFrmAnim>
+            <RowFrmAnim>3104 -2 -33 1 </RowFrmAnim>
+            <RowFrmAnim>3105 -2 -33 1 </RowFrmAnim>
+            <RowFrmAnim>3106 -1 -33 1 </RowFrmAnim>
+            <RowFrmAnim>3107 -2 -38 1 </RowFrmAnim>
+            <RowFrmAnim>3108 -2 -45 1 </RowFrmAnim>
+            <RowFrmAnim>3109 -2 -52 1 </RowFrmAnim>
+            <RowFrmAnim>3110 -2 -35 1 </RowFrmAnim>
+            <RowFrmAnim>3111 -2 -41 1 </RowFrmAnim>
+            <RowFrmAnim>3112 -2 -23 1 </RowFrmAnim>
+            <RowFrmAnim>3112 -2 -23 1 </RowFrmAnim>
+        </itemAnim>
+    </anims>
+</sprites>

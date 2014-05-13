@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="80" height="40" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="tile32" tilewidth="32" tileheight="32">
+  <image source="tile32.png" width="1024" height="1024"/>
+  <terraintypes>
+   <terrain name="New Terrain" tile="-1"/>
+  </terraintypes>
+ </tileset>
+ <tileset firstgid="1025" name="test" tilewidth="32" tileheight="32">
+  <image source="helicool.png" width="512" height="512"/>
+ </tileset>
+ <layer name="TileLayer1" width="80" height="40">
+  <data encoding="base64" compression="zlib">
+   eJztmk1P1EAYx0sXo3LQ+MZdja8HNRH9AF5YPYAHIfoBgF0kiwfhplzVhMUDHNXEk5qwcIBEr173qol+AkUTT5rozX+TjjtOpp15nj6lXdh/8svsQqdP+6OdTksbfUHQ2KWomD8fDP3670Hfy2FgTTvGNzMCrBM4UPGDk6sJTsxI+qPG5k7ib2DCyXhGf+3A399Z9D8HznvW7IbMCxx/vqmi/3VwI+N6KOcv97hKq21y0KOfhL8a+tfB9Db6U2RN1vVL+HuE/o/BE4Hzdzv8SY6dEv5eof9r8EZo/Fs0yHpdyPPaQ/V3CvOB0xV6y4npUYeSayEfVySOP24uoO5FcMlRP6u/PFOkvxHUHQU3PevvJn8P+oPgIVjoT16mgbqz4B6xvvTcJS2Djm3Ly98ivDXBUuwvRFvRXK4alDWu+ziqP98x6xlcPQcvwCFwGBxJ8VdWh677OKo/3zFrFa5aYA0cByfASYe/Ihy+Be9SWtd9HNUfd8wyU7S/FoG0KH/6s4KtkIctYzjmxi3XEElXy6i9Qvx75unvR8yURl2jpuGqMwF3kzn728D2bxY0B5M8/oYt65+Du/mc/X1A7Y8l8jeF+61apdPWwbTW3gUzWjsBJrXWJ5L+fmL7fxXsLy1p45vPGGhL5O97zFDYgRPu+XsUHOOV/Jci/Uldf7nn7xC4wqypUtT9r6Q/3/M3ep4cHePqufItMMasqVLk8wOpJPlrepIlO8Ff0vjX8+eXMsxfujlln79IZzimGnMmZh/YG7eU7DZ/bQ8o6TZ/vs8ApaLmaUnzNeVP6j0Iyv5x/FH/b5E1ap6WNF9T/qTeg6DsH8cf5RngCO6HR5n/v1S5D+a01oyav0i9B0HZP46/JpZfAk89+jXgbtbh0OV4GaxorRk1f0l6D+ITvn8m7CNl/2z+9ged62D0ecD43sLya2A9TF5mQFufchilakH/vS0bYFNrzTrq/E16D+I3vv8xfnYb3LF8Doz9M5c328jf+77/eSmELZx+lJpp+8FdZxo2f1LYwumXx/ZIrbPnr7z+uNv8Bct+BVvgW87bV3Z/O52ev+z+/gJY8K2V
+  </data>
+ </layer>
+ <objectgroup name="Object Layer 1" width="80" height="40">
+  <object x="355" y="259" width="443" height="27"/>
+  <object x="33" y="512" width="61" height="127"/>
+  <object x="1861" y="735">
+   <polygon points="0,0 -4,-15 3,-12 3,-21 9,-14 13,-24 15,-15 20,-23 19,-11 26,-12 22,0"/>
+  </object>
+  <object x="193" y="33">
+   <polygon points="0,0 61,-1 61,93 -33,93 -32,65 1,65"/>
+  </object>
+  <object x="689" y="392">
+   <polygon points="0,0 0,-13 5,-11 5,-1 6,4 17,10 31,14 30,10 17,4 40,5 47,3 54,9 77,19 52,16 60,32 61,40 59,47 56,51 54,53 58,53 62,53 60,56 54,56 49,55 45,57 37,56 29,52 20,47 16,44 21,43 24,41 24,36 22,36 23,33 20,27 17,22 16,20 19,19 19,16 13,11 6,8 3,8 -3,12 -4,10 -1,5"/>
+  </object>
+  <object x="800" y="430">
+   <polygon points="0,0 -2,7 -3,13 -1,20 2,23 6,23 6,25 5,27 1,27 -2,26 -4,25 -4,26 -1,29 4,29 7,27 11,28 18,29 43,16 40,15 36,14 34,14 34,11 37,10 36,7 36,5 42,-7 39,-8 40,-10 40,-13 55,-21 60,-15 63,-16 63,-18 59,-22 61,-25 58,-27 58,-42 55,-39 53,-36 52,-25 30,-14 29,-16 42,-24 19,-22 12,-24 4,-18 -19,-8 5,-10"/>
+  </object>
+  <object x="774" y="592">
+   <polygon points="0,0 8,-1 13,4 8,4 11,6 14,5 16,3 16,0 20,-4 21,-14 19,-15 15,-15 12,-15 13,-23 11,-30 8,-36 7,-41 7,-44 3,-46 1,-50 0,-65 -2,-65 -2,-51 -4,-49 -7,-43 -8,-35 -14,-27 -14,-24 -15,-17 -21,-16 -22,-13 -21,-5 -18,-2 -16,1 -16,5 -13,7 -10,4 -12,3 -12,1 -8,0"/>
+  </object>
+ </objectgroup>
+</map>
